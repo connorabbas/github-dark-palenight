@@ -1,2 +1,2 @@
-# github-dark-palenight
-VS Code GitHub dark application theme with Palenight syntax highlighting.
+# GitHub Dark Palenight
+GitHub dark application theme with Palenight syntax highlighting.
