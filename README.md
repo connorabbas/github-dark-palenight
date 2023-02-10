@@ -5,3 +5,7 @@ There are 2 options to choose from:
 
 - Dark
 - Dimmed Dark
+
+```
+code --install-extension github-dark-palenight-0.0.1.vsix
+```
