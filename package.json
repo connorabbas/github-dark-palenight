@@ -2,7 +2,8 @@
     "name": "github-dark-palenight",
     "displayName": "GitHub Dark Palenight",
     "description": "GitHub dark application theme with Palenight syntax highlighting.",
-    "version": "0.0.1",
+    "version": "1.0.0",
+    "publisher": "ConnorAbbas",
     "author": {
         "name": "Connor Abbas"
     },
@@ -11,7 +12,7 @@
         "url": "https://github.com/connorabbas/github-dark-palenight"
     },
     "bugs": {
-        "url": "https://github.com/connorabbas/github-dark-palenight"
+        "url": "https://github.com/connorabbas/github-dark-palenight/issues"
     },
     "galleryBanner": {
         "theme": "dark"

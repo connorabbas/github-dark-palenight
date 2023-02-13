@@ -15,7 +15,7 @@ Recommended VS Code settings to pair with this theme:
 ```json
 {
     "editor.wordWrap": "on",
-    "editor.lineHeight": 1.75,
+    "editor.lineHeight": 1.85,
     "editor.bracketPairColorization.enabled": false,
     "editor.fontFamily": "'Fira Code'",
     "editor.fontLigatures": true,
