@@ -1407,6 +1407,13 @@
             }
         },
         {
+            "name": "PHP this class reference within a function",
+            "scope": ["variable.language.this.php punctuation.definition.variable.php"],
+            "settings": {
+                "foreground": "#FF5572"
+            }
+        },
+        {
             "name": "Support Classes in PHP",
             "scope": "support.class.php",
             "settings": {

@@ -6,11 +6,6 @@ There are 2 options to choose from:
 - Dark
 - Dimmed Dark
 
-If downloading locally from repository code:
-```
-code --install-extension github-dark-palenight-version.vsix
-```
-
 Recommended VS Code settings to pair with this theme:
 ```json
 {
