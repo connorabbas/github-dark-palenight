@@ -1442,6 +1442,13 @@
             }
         },
         {
+            "name": "PHP super global reference within a function",
+            "scope": ["variable.other.global.safer.php punctuation.definition.variable.php"],
+            "settings": {
+                "foreground": "#FFCB6B"
+            }
+        },
+        {
             "name": "Language Constants in Python",
             "scope": "constant.language.python",
             "settings": {
