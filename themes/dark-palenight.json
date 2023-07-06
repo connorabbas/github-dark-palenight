@@ -1,5 +1,7 @@
 {
     "name": "GitHub Dark Palenight",
+    "type": "dark",
+    "semanticClass": "dark-palenight",
     "colors": {
         "focusBorder": "#1f6feb",
         "foreground": "#c9d1d9",
