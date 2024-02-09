@@ -255,7 +255,6 @@
         "welcomePage.buttonBackground": "#21262d",
         "welcomePage.buttonHoverBackground": "#30363d"
     },
-    "semanticHighlighting": true,
     "tokenColors": [
         {
             "name": "Global settings",
