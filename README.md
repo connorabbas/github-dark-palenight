@@ -13,11 +13,12 @@ Recommended VS Code settings to pair with this theme:
     "editor.wordWrap": "on",
     "editor.lineHeight": 1.75,
     "editor.bracketPairColorization.enabled": false,
-    "editor.fontFamily": "'Fira Code'",
+    "editor.fontFamily": "'JetBrains Mono', monospace",
     "editor.fontLigatures": true,
     "workbench.iconTheme": "vscode-icons"
 }
 ```
 
-[Fira Code download instructions](https://github.com/tonsky/FiraCode/wiki/VS-Code-Instructions)
+[JetBrains Mono Font](https://www.jetbrains.com/lp/mono/)
+
 [VSCode Icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
